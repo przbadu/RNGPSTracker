@@ -1,0 +1,6 @@
+{
+  "prettier.trailingComma": "all",
+  "prettier.singleQuote": true,
+  "editor.renderWhitespace": "boundary",
+  "files.trimTrailingWhitespace": true
+}
