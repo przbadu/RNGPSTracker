@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import { App } from './app/screens';
+import { AppScreen } from './app/screens';
 
-AppRegistry.registerComponent('GPSTracker', () => App);
+AppRegistry.registerComponent('GPSTracker', () => AppScreen);
